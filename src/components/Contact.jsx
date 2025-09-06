@@ -33,7 +33,7 @@ const Contact = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault()
-    const message = `Заявка на тренировки по каратэ:
+    const message = `Заявка на тренировки по карате:
 Имя ребенка: ${formData.name}
 Телефон: ${formData.phone}
 Возраст: ${formData.age}
@@ -249,7 +249,7 @@ const Contact = () => {
                 </h3>
                 <div className="space-y-4">
                   {[
-                    { icon: Star, text: '15+ лет опыта в каратэ' },
+                    { icon: Star, text: '15+ лет опыта в карате' },
                     { icon: User, text: 'Индивидуальный подход к каждому' },
                     { icon: Gift, text: 'Первое занятие бесплатно' },
                     { icon: Star, text: 'Малые группы до 10 человек' }
@@ -272,7 +272,7 @@ const Contact = () => {
                     <MapPin className="w-5 h-5 text-primary-400 mt-1" />
                     <div>
                       <p className="font-semibold">Самал 10А</p>
-                      <p className="text-gray-300 text-sm">Специализированный зал каратэ</p>
+                      <p className="text-gray-300 text-sm">Специализированный зал карате</p>
                     </div>
                   </div>
                   <div className="flex items-start space-x-3">

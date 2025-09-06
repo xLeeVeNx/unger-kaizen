@@ -31,12 +31,12 @@ const Footer = () => {
                 <span className="text-white font-bold text-lg">🥋</span>
               </div>
               <div>
-                <h3 className="text-lg font-bold">Каратэ Шинкиокушинкай</h3>
+                <h3 className="text-lg font-bold">Карате Шинкиокушинкай</h3>
                 <p className="text-sm text-gray-400">Унгер Кирилл Дмитриевич</p>
               </div>
             </div>
             <p className="text-gray-300 text-sm leading-relaxed">
-              Растим характер, дисциплину и внутренную силу через каратэ. 
+              Растим характер, дисциплину и внутренную силу через карате. 
               Более 15 лет опыта в обучении детей 4-15 лет.
             </p>
           </motion.div>
@@ -126,7 +126,7 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-center md:text-left">
               <p className="text-gray-400 text-sm">
-                © 2025 Каратэ Шинкиокушинкай. Унгер Кирилл Дмитриевич
+                © 2025 Карате Шинкиокушинкай. Унгер Кирилл Дмитриевич
               </p>
               <p className="text-gray-500 text-xs mt-1">
                 Все права защищены
@@ -150,7 +150,7 @@ const Footer = () => {
         >
           <div className="bg-gradient-to-r from-primary-600 to-orange-600 rounded-xl p-6 text-center">
             <h3 className="text-xl font-bold mb-2">
-              Готовы начать путь в каратэ?
+              Готовы начать путь в карате?
             </h3>
             <p className="text-gray-100 mb-4">
               Запишитесь на бесплатное первое занятие прямо сейчас!

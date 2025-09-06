@@ -53,7 +53,7 @@ const About = () => {
     {
       icon: Shield,
       title: 'Школа жизни',
-      description: 'Каратэ — это не только техника, это дисциплина и уважение'
+      description: 'Карате — это не только техника, это дисциплина и уважение'
     },
     {
       icon: Trophy,
@@ -78,7 +78,7 @@ const About = () => {
             </h2>
             <div className="w-24 h-1 bg-gradient-to-r from-primary-500 to-orange-500 mx-auto mb-8"></div>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-              Более 15 лет пути в каратэ. Образ жизни, который стал призванием
+              Более 15 лет пути в карате. Образ жизни, который стал призванием
             </p>
           </motion.div>
 
@@ -103,7 +103,7 @@ const About = () => {
               <div className="grid grid-cols-2 gap-4">
                 <div className="bg-gradient-to-br from-primary-50 to-orange-50 p-6 rounded-xl text-center border border-primary-100">
                   <div className="text-3xl font-bold text-primary-600 mb-2">15+</div>
-                  <div className="text-gray-700 font-medium">лет в каратэ</div>
+                  <div className="text-gray-700 font-medium">лет в карате</div>
                 </div>
                 <div className="bg-gradient-to-br from-primary-50 to-orange-50 p-6 rounded-xl text-center border border-primary-100">
                   <div className="text-3xl font-bold text-primary-600 mb-2">100%</div>
@@ -126,13 +126,13 @@ const About = () => {
                   </p>
                   <p>
                     Бывали времена, когда приходилось тренироваться одному — без зала, без группы — 
-                    но я продолжал. Потому что знал: <strong>каратэ — это не про обстоятельства, 
+                    но я продолжал. Потому что знал: <strong>карате — это не про обстоятельства, 
                     это про внутренний стержень</strong>.
                   </p>
                   <p>
                     Сегодня я делюсь этим опытом со своими учениками. Для меня важно не просто 
                     провести тренировку, а помочь ребёнку раскрыться, почувствовать уверенность, 
-                    <strong>поверить в себя и свои силы</strong>.
+                    <strong> поверить в себя и свои силы</strong>.
                   </p>
                 </div>
               </div>
@@ -147,7 +147,7 @@ const About = () => {
                   Растить не только сильных спортсменов, но и людей с характером, 
                   дисциплиной и внутренней силой.
                 </p>
-                <div className="flex items-center space-x-2">
+                <div className="flex items-baseline space-x-2">
                   <div className="w-2 h-2 bg-white rounded-full"></div>
                   <span className="text-sm">Строгость — где необходима. Поддержка — всегда.</span>
                 </div>

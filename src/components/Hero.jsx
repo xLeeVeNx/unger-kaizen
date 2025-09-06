@@ -64,7 +64,7 @@ const Hero = () => {
           {/* Main Title */}
           <motion.div variants={itemVariants} className="mb-8">
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-bold text-white mb-6 leading-tight">
-              <span className="block">Каратэ</span>
+              <span className="block">Карате</span>
               <span className="text-gradient bg-gradient-to-r from-primary-400 to-orange-400 bg-clip-text text-transparent">
                 Шинкиокушинкай
               </span>
@@ -73,7 +73,7 @@ const Hero = () => {
               Тренер: Унгер Кирилл Дмитриевич
             </p>
             <p className="text-base sm:text-lg text-gray-400">
-              Более 15 лет в каратэ • Набор детей 4-15 лет
+              Более 15 лет в карате • Набор детей 4-15 лет
             </p>
           </motion.div>
 

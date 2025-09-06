@@ -70,7 +70,7 @@ const Header = () => {
               <span className="text-white font-bold text-2xl">🥋</span>
             </div>
             <div className="hidden sm:block">
-              <h1 className="text-xl font-bold text-gray-900">Каратэ Шинкиокушинкай</h1>
+              <h1 className="text-xl font-bold text-gray-900">Карате Шинкиокушинкай</h1>
               <p className="text-sm text-gray-700 font-medium">Унгер Кирилл Дмитриевич</p>
             </div>
           </motion.div>
